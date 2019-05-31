@@ -1,0 +1,19 @@
+{
+  "name": "split_neurons",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "GPL-3.0-or-later",
+  "dependencies": {
+    "argparse": "^1.0.10",
+    "jquery-extend": "^2.0.3",
+    "mkdirp": "^0.5.1",
+    "ntqdm": "^1.0.0",
+    "request-promise-native": "^1.0.7",
+    "three": "^0.105.1"
+  }
+}
