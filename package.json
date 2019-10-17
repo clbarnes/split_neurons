@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node ./index.js"
   },
   "author": "",
   "license": "GPL-3.0-or-later",
@@ -13,7 +13,10 @@
     "jquery-extend": "^2.0.3",
     "mkdirp": "^0.5.1",
     "ntqdm": "^1.0.0",
+    "request": "^2.88.0",
     "request-promise-native": "^1.0.7",
-    "three": "^0.105.1"
+    "request-rate-limiter": "^1.0.2",
+    "three": "^0.105.1",
+    "url-join": "^4.0.0"
   }
 }
